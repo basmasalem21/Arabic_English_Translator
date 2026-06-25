@@ -2,7 +2,6 @@
 name = "translation-model"
 version = "0.1.0"
 description = "Add your description here"
-package-mode = false
 readme = "README.md"
 requires-python = ">=3.11,<3.15"
 dependencies = [
@@ -16,3 +15,4 @@ dependencies = [
     "safetensors",
     "huggingface_hub"
 ]
+package-mode = false
