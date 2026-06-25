@@ -15,4 +15,5 @@ dependencies = [
     "safetensors",
     "huggingface_hub"
 ]
+[tool.poetry]
 package-mode = false
